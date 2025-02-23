@@ -6,7 +6,7 @@ This is a design in HTML and CSS, and it is non-interactive because it does not 
 - No JavaScript (Non-interactive).
 
 ## 📜 License
-- This template is completely free to use. The license file (`LICENSE.pdf`) is included in the project files.
+- This template is completely free to use. The license file (`License.rtf`) is included in the project files.
 - Kasper Template [🌐 From Graphberry](https://www.graphberry.com/item/kasper-one-page-psd-template)
 
 ## 📬 Contact
